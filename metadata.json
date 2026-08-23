@@ -1,0 +1,6 @@
+{
+  "name": "Bodhgaya Ms Javed Salon & Spa",
+  "description": "Premium luxury salon and spa website in Bodh Gaya, Bihar featuring professional hair, beauty, and spa relaxation services, 5-star customer reviews, gallery, and instant appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
